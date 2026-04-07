@@ -51,6 +51,6 @@ To clone this repository correctly, you **must** have Git LFS installed on your 
 
 #### 2. Search & Detection Protocol
 * **Initial Run**: Execute the search within the provided boundary files.
-* **Lake Not Detected**: If the lake is not identified in the first run, update the search parameters to extend **150m** outside the given boundaries.
+* **Lake Not Detected**: If the lake is not identified in the first run, update the search parameters to extend **200m** outside the given boundaries.
 * **Lake Detected**: Once the lake is identified, the boundary file must be updated minimally to include the newly discovered lake perimeter.
 
